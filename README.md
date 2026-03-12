@@ -3,4 +3,6 @@
 [![Demo Video](assets/thumbnail.png)](https://github.com/StarkLuo/EvFGS/blob/main/evfgs_visi.mp4)
 
 
-Code will be available
+Please watch the video above to learn more.
+
+Code will be available.
