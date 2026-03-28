@@ -1,8 +1,7 @@
 ## Ev-FGS: Feed-Forward Gaussian-Splatting From Single Event Sequence
 
-[![Demo Video](assets/thumbnail.png)](https://github.com/StarkLuo/EvFGS/blob/main/evfgs_visi.mp4)
+[Project Page](https://starkluo.github.io/EvFGS/)
 
-
-Please watch the video above to learn more.
+For additional visualizations and qualitative results, please visit the project page.
 
 Code will be available.
